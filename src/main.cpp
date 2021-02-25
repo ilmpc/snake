@@ -1,14 +1,17 @@
-#include <stdio.h>
-#include <string>
 #include <iostream>
 #include <cstdio>
-#include <algorithm>
+#include <stdio.h>
+
 #include <unistd.h>
 #include <bits/stdc++.h>
+
+#include <string>
+#include <algorithm>
+#include <utility>
+
 #include "input.h"
 #include "snake.h"
 #include "snake_map.h"
-#include <utility>
 #include "macros.h"
 
 using namespace std;
